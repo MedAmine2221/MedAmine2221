@@ -13,15 +13,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.dev/api?username=MedAmine2221&show_icons=true&theme=dracula&hide_border=false" />
-  
-  <img height="160" src="https://github-readme-stats.vercel.dev/api/top-langs?username=MedAmine2221&layout=compact&theme=dracula&hide_border=false" />
-</div>
-
----
-
 ### 🧰 Tech Stack
 
 <div align="left">
@@ -51,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://mihail.co/media/2023/snake.gif" alt="snake animation" />
+<img src="https://mihail.co/media/2023/snake.gif" alt="snake animation" width="250" />
 
 ---
