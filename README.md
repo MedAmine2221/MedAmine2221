@@ -31,7 +31,7 @@
 ### 🌍 Connect with me
 <div align="left">
   <a href="mailto:amine.lazreg.dev@gmail.com">
-    <img src="https://brandlogos.net/wp-content/uploads/2025/04/gmail-logo_brandlogos.net_eqenr.png" height="35" />
+    <img src="https://brandlogos.net/wp-content/uploads/2025/04/gmail-logo_brandlogos.net_eqenr.png" height="35" style="margin-right: 12px;" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-amine-lazreg-831b1817a/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1200px-LinkedIn_2021.svg.png" height="35" />
