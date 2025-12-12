@@ -9,14 +9,15 @@
 - ⚙️ Back-end lover: API design, authentication, clean architecture  
 - 🎯 Currently working on: **Daily Compass App** (Productivity & Notifications)  
 - 🌱 Always learning & experimenting with cloud services and DevOps basics  
-- 📩 Reach me anytime at **yourmail@gmail.com**
+- 📩 Reach me anytime at **amine.lazreg.dev@gmail.com**
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MedAmine2221&show_icons=true&theme=dracula&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=MedAmine2221&layout=compact&theme=dracula&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.dev/api?username=MedAmine2221&show_icons=true&theme=dracula&hide_border=false" />
+  
+  <img height="160" src="https://github-readme-stats.vercel.dev/api/top-langs?username=MedAmine2221&layout=compact&theme=dracula&hide_border=false" />
 </div>
 
 ---
@@ -38,10 +39,10 @@
 
 ### 🌍 Connect with me
 <div align="left">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:amine.lazreg.dev@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile/">
+  <a href="https://www.linkedin.com/in/mohamed-amine-lazreg-831b1817a/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
   </a>
 </div>
@@ -50,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MedAmine2221/MedAmine2221/output/snake.svg" alt="snake animation" />
+<img src="https://mihail.co/media/2023/snake.gif" alt="snake animation" />
 
 ---
