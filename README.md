@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://mihail.co/media/2023/snake.gif" alt="snake animation" width="250" />
+<img src="https://mihail.co/media/2023/snake.gif" alt="snake animation" width="500" height="300" />
 
 ---
