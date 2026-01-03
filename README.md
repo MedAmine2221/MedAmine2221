@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Mohamed Amine Lazreg</h1>
-<h3 align="left">Full Stack JavaScript / TypeScript Developer from Tunisia 🇹🇳</h3>
+<h3 align="left">Full Stack JavaScript / TypeScript Developer focused on the front-end from Tunisia 🇹🇳</h3>
 
 ---
 
 ### 🚀 About Me
-- 💻 Full Stack Developer specialized in **React**, **React Native**, **NestJS**, and modern JavaScript/TypeScript ecosystems  
+- 💻 Full Stack Developer focused on the front-end specialized in **React**, **React Native**, **NestJS**, and modern JavaScript/TypeScript ecosystems  
 - 📱 Passionate about building smooth UI/UX experiences  
 - ⚙️ Back-end lover: API design, authentication, clean architecture  
 - 🎯 Currently working on: **Daily Compass App ADMIN MANAGMENT AND portfolio management application**  
