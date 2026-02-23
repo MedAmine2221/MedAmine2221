@@ -7,7 +7,7 @@
 - 💻 Full Stack Developer focused on the front-end specialized in **React**, **React Native**, **NestJS**, and modern JavaScript/TypeScript ecosystems  
 - 📱 Passionate about building smooth UI/UX experiences  
 - ⚙️ Back-end lover: API design, authentication, clean architecture  
-- 🎯 Currently working on: **AmineJobs**  
+- 🎯 Currently working on: **AM Academy** **E-Learning App**  
 - 🌱 Always learning & experimenting with cloud services and DevOps basics  
 - 📩 Reach me anytime at **amine.lazreg.dev@gmail.com**
 
